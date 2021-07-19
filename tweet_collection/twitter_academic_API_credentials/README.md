@@ -1,6 +1,6 @@
 # YAML files
 
-This folder should contain seperate YAML files titled with the Twitter usernames (e.g., `@Arran_Davis.yaml`) for each of the developer accounts that will used to access the Twitter API (v2).
+This directory should contain separate YAML files titled with the Twitter usernames (e.g., `@Arran_Davis.yaml`) for each of the developer accounts that will used to access the Twitter API (v2).
 
 The YAML files must be in the following format:
 
