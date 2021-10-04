@@ -207,6 +207,4 @@ Data from the tweet collection dates and locations described above were then sub
 
 * All tweets that contained either "Coronavirus", "COVID", "COVID-19", or "China" were removed.
 
-
-
 \section{References}
